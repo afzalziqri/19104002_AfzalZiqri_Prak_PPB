@@ -1,4 +1,4 @@
-package com.rohmanbeny.lifecycleapp
+package com.afzalziqri.lifecycleapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
