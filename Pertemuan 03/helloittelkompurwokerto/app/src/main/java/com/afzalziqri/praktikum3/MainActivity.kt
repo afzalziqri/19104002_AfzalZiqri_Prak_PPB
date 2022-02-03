@@ -1,4 +1,4 @@
-package com.rohmanbeny.praktikum3
+package com.afzalziqri.praktikum3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
