@@ -1,4 +1,4 @@
-package com.rifqiakmals_19104022.modul10
+package com.afzalziqri.modul10
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
