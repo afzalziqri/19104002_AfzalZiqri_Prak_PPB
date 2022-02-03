@@ -1,11 +1,11 @@
-package com.rifqiakmals_19104022.modul10
+package com.afzalziqri.modul10
 
 import android.database.Cursor
 import android.icu.text.SimpleDateFormat
 import android.os.Build
 import androidx.annotation.RequiresApi
-import com.rifqiakmals_19104022.modul10.data.Quote
-import com.rifqiakmals_19104022.modul10.db.DatabaseContract
+import com.afzalziqri.modul10.data.Quote
+import com.afzalziqri.modul10.db.DatabaseContract
 import java.util.*
 import kotlin.collections.ArrayList
 
