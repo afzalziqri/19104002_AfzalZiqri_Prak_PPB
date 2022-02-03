@@ -1,4 +1,4 @@
-package com.rifqiakmals_19104022.modul10.db
+package com.afzalziqri.modul10.db
 
 import android.provider.BaseColumns
 
