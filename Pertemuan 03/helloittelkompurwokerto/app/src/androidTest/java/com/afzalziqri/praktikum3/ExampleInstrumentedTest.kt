@@ -1,4 +1,4 @@
-package com.rohmanbeny.praktikum3
+package com.afzalziqri.praktikum3
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
