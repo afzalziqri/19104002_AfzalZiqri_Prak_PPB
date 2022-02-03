@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul11
+package com.afzalziqri.modul11
 
 import android.content.Intent
 import android.os.Bundle
@@ -15,7 +15,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInClient
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
-import com.rohmanbeny.modul11.databinding.ActivityMainBinding
+import com.afzalziqri.modul11.databinding.ActivityMainBinding
 
 import com.google.android.gms.tasks.OnCompleteListener
 
