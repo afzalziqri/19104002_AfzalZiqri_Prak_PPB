@@ -1,4 +1,4 @@
-package com.rifqiakmals_19104022.modul10.data
+package com.afzalziqri.modul10.data
 
 import android.content.ContentValues
 import android.content.Intent
@@ -13,20 +13,20 @@ import android.widget.ArrayAdapter
 import android.widget.Toast
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AlertDialog
-import com.rifqiakmals_19104022.modul10.R
-import com.rifqiakmals_19104022.modul10.databinding.ActivityQuoteAddUpdateBinding
-import com.rifqiakmals_19104022.modul10.db.DatabaseContract
-import com.rifqiakmals_19104022.modul10.db.DatabaseContract.QuoteColumns.Companion.DATE
-import com.rifqiakmals_19104022.modul10.db.QuoteHelper
-import com.rifqiakmals_19104022.modul10.helper
-import com.rifqiakmals_19104022.modul10.helper.ALERT_DIALOG_CLOSE
-import com.rifqiakmals_19104022.modul10.helper.ALERT_DIALOG_DELETE
-import com.rifqiakmals_19104022.modul10.helper.EXTRA_POSITION
-import com.rifqiakmals_19104022.modul10.helper.EXTRA_QUOTE
-import com.rifqiakmals_19104022.modul10.helper.RESULT_ADD
-import com.rifqiakmals_19104022.modul10.helper.RESULT_DELETE
-import com.rifqiakmals_19104022.modul10.helper.RESULT_UPDATE
-import com.rifqiakmals_19104022.modul10.helper.getCurrentDate
+import com.afzalziqri.modul10.R
+import com.afzalziqri.modul10.databinding.ActivityQuoteAddUpdateBinding
+import com.afzalziqri.modul10.db.DatabaseContract
+import com.afzalziqri.modul10.db.DatabaseContract.QuoteColumns.Companion.DATE
+import com.afzalziqri.modul10.db.QuoteHelper
+import com.afzalziqri.modul10.helper
+import com.afzalziqri.modul10.helper.ALERT_DIALOG_CLOSE
+import com.afzalziqri.modul10.helper.ALERT_DIALOG_DELETE
+import com.afzalziqri.modul10.helper.EXTRA_POSITION
+import com.afzalziqri.modul10.helper.EXTRA_QUOTE
+import com.afzalziqri.modul10.helper.RESULT_ADD
+import com.afzalziqri.modul10.helper.RESULT_DELETE
+import com.afzalziqri.modul10.helper.RESULT_UPDATE
+import com.afzalziqri.modul10.helper.getCurrentDate
 
 class QuoteAddUpdateActivity : AppCompatActivity(), View.OnClickListener {
     private var isEdit = false
