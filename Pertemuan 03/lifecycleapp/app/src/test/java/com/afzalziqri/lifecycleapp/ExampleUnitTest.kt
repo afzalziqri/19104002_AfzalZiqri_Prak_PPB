@@ -1,4 +1,4 @@
-package com.rohmanbeny.lifecycleapp
+package com.afzalziqri.lifecycleapp
 
 import org.junit.Test
 
