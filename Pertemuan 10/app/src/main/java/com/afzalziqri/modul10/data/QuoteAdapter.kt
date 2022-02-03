@@ -1,4 +1,4 @@
-package com.rifqiakmals_19104022.modul10.data
+package com.afzalziqri.modul10.data
 
 import android.app.Activity
 import android.content.Intent
@@ -6,12 +6,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.rifqiakmals_19104022.modul10.R
-import com.rifqiakmals_19104022.modul10.databinding.ItemQuoteBinding
-import com.rifqiakmals_19104022.modul10.helper.EXTRA_POSITION
-import com.rifqiakmals_19104022.modul10.helper.EXTRA_QUOTE
-import com.rifqiakmals_19104022.modul10.helper.REQUEST_UPDATE
-import com.rifqiakmals_19104022.modul10.helper.categoryList
+import com.afzalziqri.modul10.R
+import com.afzalziqri.modul10.databinding.ItemQuoteBinding
+import com.afzalziqri.modul10.helper.EXTRA_POSITION
+import com.afzalziqri.modul10.helper.EXTRA_QUOTE
+import com.afzalziqri.modul10.helper.REQUEST_UPDATE
+import com.afzalziqri.modul10.helper.categoryList
 
 class QuoteAdapter(private val activity: Activity): RecyclerView.Adapter<QuoteAdapter.QuoteViewHolder>() {
         var listQuotes = ArrayList<Quote>()
