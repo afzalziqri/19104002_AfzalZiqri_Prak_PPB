@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul9
+package com.afzalziqri.modul9
 
 import org.junit.Test
 
