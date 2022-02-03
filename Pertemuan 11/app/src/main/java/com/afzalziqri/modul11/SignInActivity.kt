@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul11
+package com.afzalziqri.modul11
 
 import android.content.Intent
 import android.os.Bundle
@@ -15,7 +15,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
-import com.rohmanbeny.modul11.databinding.ActivitySignInBinding
+import com.afzalziqri.modul11.databinding.ActivitySignInBinding
 
 class SignInActivity : AppCompatActivity(), View.OnClickListener {
 
