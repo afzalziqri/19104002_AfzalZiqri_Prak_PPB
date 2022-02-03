@@ -11,7 +11,7 @@ import android.os.Bundle
 import android.provider.MediaStore
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.rohmanbeny.modul5.databinding.ActivityMainBinding
+import com.afzalziqri.modul5.databinding.ActivityMainBinding
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
