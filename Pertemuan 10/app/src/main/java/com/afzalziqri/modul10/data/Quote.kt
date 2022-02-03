@@ -1,4 +1,4 @@
-package com.rifqiakmals_19104022.modul10.data
+package com.afzalziqri.modul10.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
