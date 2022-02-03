@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.FragmentManager
-import com.rohmanbeny.modul5.databinding.FragmentPractice5FirstBinding
+import com.afzalziqri.modul5.databinding.FragmentPractice5FirstBinding
 
 
 class Practice5FirstFragment : Fragment() {
