@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul6.adapter
+package com.afzalziqri.modul6.adapter
 
 import android.content.Context
 import android.content.Intent
@@ -12,9 +12,9 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.rohmanbeny.modul6.DetailActivity
-import com.rohmanbeny.modul6.MyData
-import com.rohmanbeny.modul6.R
+import com.afzalziqri.modul6.DetailActivity
+import com.afzalziqri.modul6.MyData
+import com.afzalziqri.modul6.R
 
 class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>, val context: Context):
 RecyclerView.Adapter<CardViewMyDataAdapter.CardViewViewHolder>() {
