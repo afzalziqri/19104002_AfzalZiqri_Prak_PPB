@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul6.adapter
+package com.afzalziqri.modul6.adapter
 
 import android.view.LayoutInflater
 import android.view.View
