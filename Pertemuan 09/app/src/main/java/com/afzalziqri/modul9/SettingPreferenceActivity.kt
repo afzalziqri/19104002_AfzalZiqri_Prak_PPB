@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul9
+package com.afzalziqri.modul9
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,7 +7,7 @@ import android.text.TextUtils
 import android.view.View
 import android.widget.Toast
 import androidx.core.provider.FontsContractCompat.Columns.RESULT_CODE
-import com.rohmanbeny.modul9.databinding.ActivitySettingPreferenceBinding
+import com.afzalziqri.modul9.databinding.ActivitySettingPreferenceBinding
 
 class SettingPreferenceActivity : AppCompatActivity(), View.OnClickListener {
 
