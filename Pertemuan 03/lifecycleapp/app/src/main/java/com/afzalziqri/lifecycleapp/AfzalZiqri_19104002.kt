@@ -1,11 +1,11 @@
-package com.rohmanbeny.lifecycleapp
+package com.afzalziqri.lifecycleapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 
-class RohmanBeny_19104060 : AppCompatActivity() {
+class AfzalZiqri_19104002 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_rohman_beny19104060)
