@@ -1,4 +1,4 @@
-package com.rohmanbeny.praktikum3
+package com.afzalziqri.praktikum3
 
 import org.junit.Test
 
