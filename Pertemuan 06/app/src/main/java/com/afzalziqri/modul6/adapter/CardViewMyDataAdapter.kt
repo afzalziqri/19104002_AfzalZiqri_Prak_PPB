@@ -10,8 +10,8 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.rohmanbeny.modul6.MyData
-import com.rohmanbeny.modul6.R
+import com.afzalziqri.modul6.MyData
+import com.afzalziqri.modul6.R
 
 class CardViewMyDataAdapter(private val listMyDatas: ArrayList<MyData>):
 RecyclerView.Adapter<CardViewMyDataAdapter.CardViewViewHolder>() {
