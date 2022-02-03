@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul8
+package com.afzalziqri.modul8
 
 import android.content.BroadcastReceiver
 import android.content.Context
