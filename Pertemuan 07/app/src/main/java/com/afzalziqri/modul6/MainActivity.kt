@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul6
+package com.afzalziqri.modul6
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,9 +6,9 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.rohmanbeny.modul6.adapter.CardViewMyDataAdapter
-import com.rohmanbeny.modul6.adapter.GridMyDataAdapter
-import com.rohmanbeny.modul6.adapter.ListMyDataAdapter
+import com.afzalziqri.modul6.adapter.CardViewMyDataAdapter
+import com.afzalziqri.modul6.adapter.GridMyDataAdapter
+import com.afzalziqri.modul6.adapter.ListMyDataAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
