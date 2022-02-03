@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul5
+package com.afzalziqri.modul5
 
 import org.junit.Test
 
