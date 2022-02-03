@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul9
+package com.afzalziqri.modul9
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
