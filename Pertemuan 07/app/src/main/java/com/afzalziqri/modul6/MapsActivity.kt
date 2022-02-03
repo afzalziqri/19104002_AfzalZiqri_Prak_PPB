@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul6
+package com.afzalziqri.modul6
 
 import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
@@ -11,7 +11,7 @@ import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
-import com.rohmanbeny.modul6.databinding.ActivityMapsBinding
+import com.afzalziqri.modul6.databinding.ActivityMapsBinding
 
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
