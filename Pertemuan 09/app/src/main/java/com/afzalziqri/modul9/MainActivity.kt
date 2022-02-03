@@ -1,10 +1,10 @@
-package com.rohmanbeny.modul9
+package com.afzalziqri.modul9
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatDelegate
-import com.rohmanbeny.modul9.databinding.ActivityMainBinding
+import com.afzalziqri.modul9.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
