@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul6
+package com.afzalziqri.modul6
 
 import android.app.Activity
 import android.content.Intent
@@ -7,7 +7,7 @@ import android.os.Parcelable
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.rohmanbeny.modul6.databinding.ActivityDetailBinding
+import com.afzalziqri.modul6.databinding.ActivityDetailBinding
 import kotlinx.android.synthetic.main.activity_detail.*
 import kotlinx.android.synthetic.main.content_scrolling.*
 
