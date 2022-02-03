@@ -2,7 +2,7 @@ package com.afzalziqri.modul5
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.rohmanbeny.modul5.databinding.ActivityPractice5ReadDataBinding
+import com.afzalziqri.modul5.databinding.ActivityPractice5ReadDataBinding
 
 class Practice5ReadDataActivity : AppCompatActivity() {
 
