@@ -1,4 +1,4 @@
-package com.afzal.modul5
+package com.afzalziqri.modul5
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
