@@ -1,12 +1,12 @@
-package com.rifqiakmals_19104022.modul10.db
+package com.afzalziqri.modul10.db
 
 import android.content.ContentValues
 import android.content.Context
 import android.database.Cursor
 import android.database.SQLException
 import android.database.sqlite.SQLiteDatabase
-import com.rifqiakmals_19104022.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
-import com.rifqiakmals_19104022.modul10.db.DatabaseContract.QuoteColumns.Companion._ID
+import com.afzalziqri.modul10.db.DatabaseContract.QuoteColumns.Companion.TABLE_QUOTE
+import com.afzalziqri.modul10.db.DatabaseContract.QuoteColumns.Companion._ID
 
 class QuoteHelper(context: Context) {
     companion object {
