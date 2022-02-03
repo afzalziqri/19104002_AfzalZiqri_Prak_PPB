@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.rohmanbeny.modul5.databinding.FragmentPractice5ReadDataBinding
+import com.afzalziqri.modul5.databinding.FragmentPractice5ReadDataBinding
 
 class Practice5ReadDataFragment : Fragment() {
     private lateinit var binding: FragmentPractice5ReadDataBinding
