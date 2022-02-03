@@ -1,4 +1,4 @@
-package com.rohmanbeny.modul5
+package com.afzalziqri.modul5
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
