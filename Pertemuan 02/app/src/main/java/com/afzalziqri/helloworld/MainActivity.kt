@@ -1,4 +1,4 @@
-package com.rohmanbeny.helloworld
+package com.afzalziqri.helloworld
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
